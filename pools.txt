@@ -2,7 +2,7 @@
 [
 	{
 		"pool_address" : "pool.intensecoin.com:7777", 
-		"wallet_address" : "44NoPqV96tfD5tvAmUHrpUEAf62LwDrABgTnmhPHM9g6Bkdk3nk7arB1V86TykSDUUT1bJHfKMtxPJakKyqEwMSbLcJ6oVT", 
+		"wallet_address" : "NaWe5B5NqvZ3TV2Mj1pxYtTgrnTBwQDMDNtqVzMR6Xa5ejxu6hbi6KULHTqd732ebc5qTHvKXonokghUBd3pjLa8cznucGBBX8r28FA4Drgw", 
 		"rig_id" : "", 
 		"pool_password" : "x", 
 		"use_nicehash" : false, 
